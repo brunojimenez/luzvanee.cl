@@ -1,0 +1,26 @@
+{
+  "name": "luzvanee.cl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunojimenez/luzvanee.cl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunojimenez/luzvanee.cl/issues"
+  },
+  "homepage": "https://github.com/brunojimenez/luzvanee.cl#readme"
+}
